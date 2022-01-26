@@ -1,6 +1,6 @@
 ### Hey everyone, welcome to my Github 👋
 
-A Solutions Architect, programmer, DevOps culture defender and coffee lover.
+A Squad Lead, Solutions Architect, Programmer, DevOps culture defender and coffee lover.
 
 "Programmer: A machine that turns coffee into code" (Timodeu)
 
